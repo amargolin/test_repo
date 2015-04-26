@@ -12,6 +12,7 @@ public class PlayerScript : MonoBehaviour {
 	public List<KeyCode> rightButton;
 
 	private Vector3 lastMovement = new Vector3();
+	some_test_changes
 
 	// Use this for initialization
 	void Start () {
